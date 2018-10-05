@@ -1,0 +1,3 @@
+#STUDENT RECORD MANAGEMENT
+It uses files as database to perform file handling operations such as add, search, modify 
+and delete records to manage students’ records. This project also generates mark-sheet for students.
